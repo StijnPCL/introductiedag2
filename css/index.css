@@ -89,16 +89,19 @@ td {
     height: 830px;
 }
 
+.border-corners {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
 .line-content-container-1 {
     position: absolute;
     margin-left: -450px;
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h1 {
@@ -121,10 +124,6 @@ article {
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h2 {
@@ -140,10 +139,6 @@ h2 {
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h3 {
@@ -159,10 +154,6 @@ h3 {
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h4 {
@@ -171,8 +162,6 @@ h4 {
     padding: 10px;
 }
 
-/* test */
-
 .line-content-container-5 {
     position: absolute;
     margin-left: -450px;
@@ -180,10 +169,6 @@ h4 {
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h5 {
@@ -199,10 +184,6 @@ h5 {
     height: 150px;
     width: 350px;
     border: 2px solid black;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
 }
 
 h6 {
