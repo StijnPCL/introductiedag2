@@ -6,7 +6,7 @@
 .background {
     position: absolute;
     width: 100%;
-    height: 220%;
+    height: 230%;
 }
 
 .container-agenda {
@@ -75,7 +75,7 @@ td {
     background-color: white;
     border: solid rgb(50, 50, 50) 2px;
     width: 1201px;
-    height: 930px;
+    height: 1100px;
     position: relative;
     box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.300);
 }
@@ -86,7 +86,7 @@ td {
     top: 50px;
     width: 0px;
     border-left: 2px solid rgb(60, 60, 109);
-    height: 830px;
+    height: 1000px;
 }
 
 .border-corners {
@@ -98,15 +98,15 @@ td {
 
 .line-content-container-1 {
     position: absolute;
-    margin-left: -450px;
-    height: 150px;
-    width: 350px;
+    margin-left: -520px;
+    height: 220px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h1 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
 
@@ -120,74 +120,74 @@ article {
 .line-content-container-2 {
     position: absolute;
     margin-left: 90px;
-    margin-top: 130px;
-    height: 150px;
-    width: 350px;
+    margin-top: 80px;
+    height: 280px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h2 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
 
 .line-content-container-3 {
     position: absolute;
-    margin-left: -450px;
-    margin-top: 260px;
-    height: 150px;
-    width: 350px;
+    margin-left: -520px;
+    margin-top: 295px;
+    height: 220px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h3 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
 
 .line-content-container-4 {
     position: absolute;
     margin-left: 90px;
-    margin-top: 390px;
-    height: 150px;
-    width: 350px;
+    margin-top: 440px;
+    height: 220px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h4 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
 
 .line-content-container-5 {
     position: absolute;
-    margin-left: -450px;
-    margin-top: 550px;
-    height: 150px;
-    width: 350px;
+    margin-left: -520px;
+    margin-top: 590px;
+    height: 220px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h5 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
 
 .line-content-container-6 {
     position: absolute;
     margin-left: 90px;
-    margin-top: 680px;
-    height: 150px;
-    width: 350px;
+    margin-top: 740px;
+    height: 220px;
+    width: 420px;
     border: 2px solid black;
 }
 
 h6 {
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     padding: 10px;
 }
